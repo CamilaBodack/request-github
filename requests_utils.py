@@ -1,5 +1,5 @@
 """
-Modulo que contém funcionalidades que podem ser uteis em todo o sistea
+Modulo que contém funcionalidades que podem ser uteis em todo o sistema
 """
 
 import requests
